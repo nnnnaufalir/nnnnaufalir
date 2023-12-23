@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nnnnaufalir
-- 👀 I’m interested in Robotics, AI and IoT
+- 👀 I’m interested in Robotics, AI and IoT System
 - 🌱 I’m currently learning Embedded System Design and Program
 - 💞️ I’m looking to collaborate on Robotic Project
 - 📫 How to reach me check my Insta @nnaufalir
